@@ -36,10 +36,11 @@ Dime is a 100% free, open-source personal finance tracker built with iOS design 
 
 ## How to help
 
-- Please feel free to raise [issues](https://github.com/rarfell/dimeApp/issues) for any inquiries, suggestions for improvements, or bugs you encounter.
-- You're welcome to fork the repository and propose changes through a pull request, although the decision to merge it rests with the project maintainers.
-- To follow along with app updates, follow [@budgetwithdime](https://x.com/budgetwithdime) on X / Twitter
-- If you would like to discuss with the contributors, feel free to drop [Rafael](https://x.com/rarfell) or [Jeffrey](https://x.com/jefcodes) a DM!
+If you have bug reports, feature requests, or want to start discussions, please post on our [Discussion Board](https://dimeapp.userjot.com/).
+
+You're also welcome to fork the repository and propose changes through a pull request, although the decision to merge it rests with the project maintainers.
+
+To follow along with app updates, follow [@budgetwithdime](https://x.com/budgetwithdime) on X / Twitter. If you would like to discuss with the contributors, feel free to drop [Rafael](https://x.com/rarfell) or [Jeffrey](https://x.com/jefcodes) a DM!
 
 ## How to build
 
