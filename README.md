@@ -4,7 +4,7 @@
   <img src="./docs/assets/hero.png" width="451" style="max-width: 100%; height: auto;" />
 </p>
 
-Dime is a 100% free, open-source personal finance tracker built with iOS design guidelines in mind. [Download Dime on the App Store.](https://apps.apple.com/sg/app/dime-budget-expense-tracker/id1635280255)
+Dime is a 100% free, open-source personal finance tracker built with iOS design guidelines in mind. [Download Dime on the App Store](https://apps.apple.com/sg/app/dime-budget-expense-tracker/id1635280255) or visit our [Discussion Board](https://dimeapp.userjot.com/).
 
 ## App Preview
 
