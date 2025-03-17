@@ -42,6 +42,8 @@ You're also welcome to fork the repository and propose changes through a pull re
 
 To follow along with app updates, follow [@budgetwithdime](https://x.com/budgetwithdime) on X / Twitter. If you would like to discuss with the contributors, feel free to drop [Rafael](https://x.com/rarfell) or [Jeffrey](https://x.com/jefcodes) a DM!
 
+For more information, see [CONTRIBUTING.md](https://github.com/rarfell/dimeApp/blob/main/docs/CONTRIBUTING.md).
+
 ## How to build
 
 ### Required
